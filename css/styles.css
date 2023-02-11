@@ -1,0 +1,116 @@
+thead,
+tfoot {
+    background-color: #333;
+    color: rgb(255, 255, 255);
+}
+
+p {
+  color: #898989;
+}
+
+h4 {
+  color: #FF00FF;
+}
+
+h4:target {
+  color: #DC143C;
+}
+
+.send {
+  color: #8A2BE2;
+}
+
+
+.mybg , .mybg1{
+  width: 100%;
+  height: 100%;
+  position: relative;
+  padding: 0;
+  margin: 0px;
+}
+
+
+
+/* .grey{
+  width: 17%;
+  height: 205px;
+  position: relative;
+  margin: 0;
+  top: -262.3px;
+  right: -36px;
+  border: solid 7px rgb(200, 198, 198);
+  border-radius: 50%;
+
+} */
+
+.mypf {
+  height: auto;
+  overflow: hidden;
+  border-radius: 50%;
+  position: relative;
+  top: -50px;
+  left: 30px;
+  border: solid 18px white;
+  display: block;
+}
+
+.n {
+  color: #8A2BE2;
+  display: block;
+  margin-top: -100px;
+  margin-bottom: 0px;
+  padding: 40px;
+}
+
+.nn {
+  color: #8f8f8f;
+  display: block;
+  margin-top: -40px;
+  margin-bottom: 0px;
+  padding-left: 40px;
+
+}
+
+body {
+  background-color:#ffffff;
+  font-family: 'Kanit', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+hr {
+  border-color: #8f8f8f;
+  border-width: 2px;
+  border-style: line;
+  width: 30%;
+}
+
+th {
+  color: #ffffff;
+}
+
+tr {
+  color: #8f8f8f;
+}
+
+td {
+  display: table-cell;
+  vertical-align: inherit;
+}
+
+table {
+  border-collapse: separate;
+  text-indent: initial;
+}
+
+ol.r {
+  list-style-type: none;
+}
+
+
+
+
+
+
+
