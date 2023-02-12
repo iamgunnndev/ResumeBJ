@@ -108,6 +108,21 @@ ol.r {
   list-style-type: none;
 }
 
+@media (max-width: 991px)
+{
+  .mybg , .mybg1
+  {
+    padding: 40px;
+  }
+  .text h2
+  {
+    font-size: 3em;
+  }
+  .text h3
+  {
+    font-size: 2em;
+  }
+}
 
 
 
